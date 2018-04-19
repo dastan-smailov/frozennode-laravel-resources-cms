@@ -1,0 +1,13 @@
+/* Header elements */
+
+#page-header {
+	margin: 0 -15px 0 -15px;
+}
+
+
+/* Main elements */
+
+article.posts:last-of-type  hr {
+	display: none;
+}
+
